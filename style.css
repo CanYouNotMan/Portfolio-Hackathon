@@ -1,0 +1,37 @@
+div.header {
+    width: 1730px;
+    align-items: center;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+  }
+  div.bottom {
+    width: 1730px;
+    height: 500px;
+    align-items: center;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+  }
+  
+  p.portf {
+    font-size: 30px;  /* Adjusted font size */
+    left: 67px;  /* Moved closer */
+    top: 50px;
+    text-align: center;
+    text-indent: 50px;
+    font-size: 50px;
+    font-size: 50px;
+  }
+  
+  p.olio {
+    font-size: 30px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+    top: 0;
+    text-indent: 50px;
+    position: absolute;
+  }
+  
